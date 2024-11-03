@@ -1,3 +1,9 @@
+## General Requirements
+- The system should allow users to browse movies, theaters, and available showtimes based on location.
+- The system should support multiple cities, each with theaters that have screens and seat configurations.
+- The system should provide a flexible pricing structure based on seat types and other factors like peak hours.
+- The system should handle different payment methods and notify users upon successful booking, cancellation, and payment status updates.
+
 ## Class Diagram for Ticketing Solution
 
 ### City
